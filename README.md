@@ -80,7 +80,7 @@ What is the relationship between study hours and marks?
 
 🚀 How to Run the Project
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/student-performance-analyzer.git
+git clone https://github.com/SAIRAJ-28/student-performance-analyzer.git
 2️⃣ Install Required Libraries
 pip install pandas matplotlib
 3️⃣ Run Python Analysis
